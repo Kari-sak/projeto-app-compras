@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114296526687",
+    "firebase_url": "https://projeto-app-compras-default-rtdb.firebaseio.com",
+    "project_id": "projeto-app-compras",
+    "storage_bucket": "projeto-app-compras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114296526687:android:ec31161a6ff7dbf75448ea",
+        "android_client_info": {
+          "package_name": "com.projetoappcompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114296526687-3tbhdkkqaqk9bc4usv3jjmtatj35ega0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYfBMhuE2rQETJpr_1oFENS1R-UIdQQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114296526687-3tbhdkkqaqk9bc4usv3jjmtatj35ega0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
